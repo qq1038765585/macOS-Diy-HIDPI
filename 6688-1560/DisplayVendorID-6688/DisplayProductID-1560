@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>5472</integer>
+	<key>DisplayProductName</key>
+	<string>HS156KCA</string>
+	<key>DisplayVendorID</key>
+	<integer>26248</integer>
+	<key>IOGFlags</key>
+	<integer>4</integer>
+	<key>scale-resolutions</key>
+	<array>
+		<data>
+		AAAaQAAADsQA
+		</data>
+		<data>
+		AAAXgAAADTgA
+		</data>
+		<data>
+		AAAUAAAAC0AA
+		</data>
+		<data>
+		AAAPAAAACHAA
+		</data>
+	</array>
+	<key>target-default-ppmm</key>
+	<real>10.069930100000001</real>
+</dict>
+</plist>
